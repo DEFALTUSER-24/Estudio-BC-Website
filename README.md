@@ -1,5 +1,5 @@
 # website-project-1
-Landing page para un Estudio Contable realizada desde cero, trabajo realizado como freelancer hace varios años.
+Landing page para un estudio contable en Argentina realizada desde cero, trabajo realizado como freelancer hace varios años.
 
 <br>
 
