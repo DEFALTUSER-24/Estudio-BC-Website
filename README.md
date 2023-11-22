@@ -5,8 +5,6 @@ The clean and modern layout highlights key offerings such as tax consulting and 
 
 Engaging visuals and concise language are incorporated to quickly convey the firm's professionalism and unique value. As a freelancer, I take pride in contributing to the establishment of an effective online presence for this accounting firm, ensuring accessibility and a positive experience for users on both desktop and mobile platforms in the competitive market.
 
-<br>
-
 ## Libraries / Frameworks
 * Bootstrap v3.3.7 - https://getbootstrap.com/
 * jQuery v 1.12.4 - https://jquery.com/
